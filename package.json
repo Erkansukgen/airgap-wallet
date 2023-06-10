@@ -103,7 +103,7 @@
     "@ionic-native/diagnostic": "^5.32.0",
     "@ionic-native/keyboard": "^5.5.0",
     "@ionic-native/qr-scanner": "^5.5.0",
-    "@ionic/angular": "5.6.4",
+    "@ionic/angular": "7.0.7",
     "@ionic/core": "5.6.4",
     "@ionic/storage": "^2.2.0",
     "@keystonehq/bc-ur-registry": "0.4.4",
