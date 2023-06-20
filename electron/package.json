@@ -44,7 +44,7 @@
     "@capacitor/electron": "^2.4.0",
     "@ledgerhq/hw-transport": "^5.23.0",
     "@ledgerhq/hw-transport-node-ble": "^5.23.0",
-    "@ledgerhq/hw-transport-node-hid-singleton": "^5.23.0",
+    "@ledgerhq/hw-transport-node-hid-singleton": "^6.28.7",
     "electron-is-dev": "^1.2.0",
     "electron-version": "^2.0.1"
   },
