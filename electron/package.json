@@ -41,7 +41,7 @@
     }
   },
   "dependencies": {
-    "@capacitor/electron": "^2.4.0",
+    "@capacitor/electron": "^2.5.0",
     "@ledgerhq/hw-transport": "^5.23.0",
     "@ledgerhq/hw-transport-node-ble": "^5.23.0",
     "@ledgerhq/hw-transport-node-hid-singleton": "^5.23.0",
