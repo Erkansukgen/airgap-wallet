@@ -142,7 +142,7 @@
     "cordova-sqlite-storage": "^6.0.0",
     "cordova.plugins.diagnostic": "^6.0.3",
     "core-js": "^3.10.1",
-    "electron": "^22.3.23",
+    "electron": "^23.2.3",
     "es6-promise-plugin": "^4.2.2",
     "graphql": "^16.0.1",
     "graphql-request": "^3.6.1",
