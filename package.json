@@ -128,7 +128,7 @@
     "@types/ledgerhq__hw-transport-webusb": "^4.70.0",
     "@walletconnect/client": "^1.4.1",
     "@zondax/ledger-polkadot": "^0.13.6",
-    "@zondax/ledger-substrate": "^0.17.3",
+    "@zondax/ledger-substrate": "^0.40.7",
     "@zxing/browser": "0.0.8",
     "@zxing/library": "^0.18.4",
     "@zxing/ngx-scanner": "3.1.3",
