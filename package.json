@@ -109,7 +109,7 @@
     "@keystonehq/bc-ur-registry": "0.4.4",
     "@keystonehq/bc-ur-registry-eth": "0.7.5",
     "@ledgerhq/hw-transport": "^6.2.0",
-    "@ledgerhq/hw-transport-http": "^6.3.0",
+    "@ledgerhq/hw-transport-http": "^6.31.0",
     "@ledgerhq/hw-transport-u2f": "^5.15.0",
     "@ledgerhq/hw-transport-webhid": "^6.3.0",
     "@ledgerhq/hw-transport-webusb": "^5.49.0",
